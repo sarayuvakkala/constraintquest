@@ -124,4 +124,4 @@ All 24 puzzle boards were checked by brute force and are solvable, and the three
 
 ## License
 
-No license has been chosen yet, so all rights are reserved by default. Add a `LICENSE` file if you want others to reuse it.
+Released under the [MIT License](LICENSE). You are free to use, copy, modify and share it, as long as the license notice is kept.
