@@ -31,6 +31,11 @@ Every stage is the same idea in a new costume: **variables** (what you decide), 
 | ![Stage 5 graph](docs/screenshots/06-stage5-constraint-graph.jpg) | ![Stage 5 cutset](docs/screenshots/07-stage5-cutset.jpg) |
 | **Stage 5.** The metro as a constraint graph with 3 islands and 2 loops. | **Stage 5.** Closing Central (red cross) breaks every loop, so only trees remain. |
 
+## Demo video
+
+A 4-minute screen recording of the game's demo mode playing through all five stages:
+[`docs/video/ConstraintQuest_demo.mp4`](docs/video/ConstraintQuest_demo.mp4) (1080p, 43 MB). Open the file on GitHub to play it in the browser.
+
 ## How to run it
 
 ConstraintQuest is **one self-contained HTML file**. There is nothing to install.
